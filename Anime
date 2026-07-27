@@ -1,0 +1,148 @@
+[
+  {
+    "pckg_id": "com.tvgarden.android",
+    "base_domain": "tv.garden",
+    "home_url": "https://tv.garden/",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
+    "pckg_id": "com.reeltv",
+    "base_domain": "reeltv.buzz",
+    "home_url": "https://reeltv.buzz",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
+    "pckg_id": "com.cinefy",
+    "base_domain": "cinefy.lol",
+    "home_url": "https://cinefy.lol",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
+    "pckg_id": "com.studyiq",
+    "base_domain": "spidyiq.vercel.app",
+    "home_url": "https://spidyiq.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
+    "pckg_id": "com.desidubanime",
+    "base_domain": "desidubanime.me",
+    "home_url": "https://desidubanime.me",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+ {
+    "pckg_id": "com.kgs",
+    "base_domain": "spidykgs",
+    "home_url": "https://spidykgs.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+ {
+    "pckg_id": "com.animerulz",
+    "base_domain": "animerulzx.net",
+    "home_url": "https://animerulzx.net",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
+    "pckg_id": "com.sw",
+    "base_domain": "spidyway",
+    "home_url": "https://spidyway.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+  {
+    "pckg_id": "com.animeworld.android",
+    "base_domain": "watchanimeworld.net",
+    "home_url": "https://watchanimeworld.net",
+    "mega_domains": ["mega.nz", "mega.io"]
+ },
+  {
+    "pckg_id": "com.toonworld.android",
+    "base_domain": "toonworld4all.fun",
+    "home_url": "https://toonworld4all.fun/",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.testbook",
+    "base_domain": "spidytests.vercel",
+    "home_url": "https://www.spidytests.vercel.app",
+    "mega_domains": ["pahe.win"]
+  },
+  {
+    "pckg_id": "com.popcornmovies",
+    "base_domain": "popcornmovies.org",
+    "home_url": "https://popcornmovies.org/",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animesuge.android",
+    "base_domain": "animesugetv.se",
+    "home_url": "https://animesugetv.se/home",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animedao.android",
+    "base_domain": "animedao9.top",
+    "home_url": "https://animedao9.top/",
+    "mega_domains": ["pahe.bunniescdn.online"]
+  },
+  {
+    "pckg_id": "com.animedub.android",
+    "base_domain": "animedub.co",
+    "home_url": "https://animedub.co/home",
+    "mega_domains": ["dlx.techinmind.space"]
+  },
+  {
+    "pckg_id": "com.animehindidubbed.android",
+    "base_domain": "animehindidubbed.in",
+    "home_url": "https://animehindidubbed.in",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.animesalt.android",
+    "base_domain": "animesalt.ac",
+    "home_url": "https://animesalt.ac/",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.rwa",
+    "base_domain": "rwa.vercel.app",
+    "home_url": "https://spidyuniverserwa.vercel.app/",
+    "mega_domains": ["mega.nz"]
+  },
+  {
+    "pckg_id": "com.netmirror",
+    "base_domain": "netmirror.world",
+    "home_url": "https://netmirror.world/",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.hinanime.android",
+    "base_domain": "hinanime.site",
+    "home_url": "https://hinanime.site",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.tplay",
+    "base_domain": "tplay.live",
+    "home_url": "https://tplay.live/",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.animixstream",
+    "base_domain": "animixstream.com",
+    "home_url": "https://animixstream.com/",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.ipllive",
+    "base_domain": "dtv.app",
+    "home_url": "https://we-live-v2.pages.dev/live-stream?channel=Star%20Sports%20Hindi",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.wowtv",
+    "base_domain": "wowtv.app",
+    "home_url": "https://wowtv.app/",
+    "mega_domains": ["mega.nz"]
+  }
+  
+  
+]
