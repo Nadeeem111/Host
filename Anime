@@ -135,7 +135,7 @@
     "pckg_id": "com.nextopper",
     "base_domain": "spidytopper.vercel.app",
     "home_url": "https://spidytopper.vercel.app",
-    "mega_domains": ["mega.nz"]
+    "mega_domains": ["mega.nz", "mega.io"]
   },
 {
     "pckg_id": "com.wowtv",
