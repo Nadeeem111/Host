@@ -134,7 +134,7 @@
 {
     "pckg_id": "com.nextoppers",
     "base_domain": "nextopprs.app",
-    "home_url": "spidytopper.vercel.app",
+    "home_url": "https://spidytopper.vercel.app",
     "mega_domains": ["mega.nz"]
   },
 {
