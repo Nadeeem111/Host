@@ -133,7 +133,7 @@
   },
 {
     "pckg_id": "com.nextoppers",
-    "base_domain": "nextopprs.app",
+    "base_domain": "spidytopper.vercel.app",
     "home_url": "https://spidytopper.vercel.app",
     "mega_domains": ["mega.nz"]
   },
